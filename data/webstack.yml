@@ -15,6 +15,19 @@
       logo: g/github.webp
       url: https://rs.smh.cc:44333/zp.html#/
       description: '苏州市立医院人事招聘'
+    - title: '香草云'
+      logo: g/github.webp
+      url: https://www.xiangcaoyun.com/
+      description: '为千行百业提供全面的解决方案'
+    - title: 阿里云
+      logo: a/aliyun.jpg
+      url: https://www.aliyun.com/
+      description: 上云就上阿里云。
+    - title: 腾讯云
+      logo: c/cloud-tencent.webp
+      url: https://cloud.tencent.com/
+      description: 产业智变，云启未来。
+    
             
 - taxonomy: 期刊投稿
   icon: fas fa-briefcase fa-lg
