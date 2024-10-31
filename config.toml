@@ -1,4 +1,4 @@
-baseURL               = "https://bioit.top"
+baseURL               = "https://github.com/dr-zjd/Bioit-top"
 languageCode          = "zh-CN"
 title                 = "Chantonの导航站"
 theme                 = "WebStack-Hugo"
