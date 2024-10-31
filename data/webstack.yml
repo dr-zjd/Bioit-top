@@ -17,7 +17,7 @@
       description: 苏州市立医院人事招聘
     
      
-- taxonomy: 文献投稿
+- taxonomy: 期刊投稿
   icon: fab fa-github
   list:
     - term: C
@@ -25,41 +25,41 @@
         - title: Clinical Neurology and Neurosurgery
           logo: g/github.webp
           url: https://www.editorialmanager.com/cnn/default2.aspx
-          description: -
+          description: 临床期刊
     - term: I
       links: 
         - title: iScience
           logo: g/github.webp
           url:https://www.editorialmanager.com/iscience/default2.aspx
-          description: -
+          description: 基础期刊
     - term: J
       links: 
         - title: Journal of Medical Case Reports
           logo: g/github.webp
           url: https://www.editorialmanager.com/jmcr/default2.aspx
-          description: -
+          description: 临床期刊
         - title: Journal of Neurosurgery
           logo: g/github.webp
           url: https://jns.msubmit.net/cgi-bin/main.plex?form_type=home
-          description: -
+          description: 临床期刊
     - term: M
       links:
         - title: MDPI
           logo: g/github.webp
           url: https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue
-          description: -
+          description: MDPI系列期刊
     - term: N
       links:
         - title: New England Journal of Medicine
           logo: g/github.webp
           url: https://mc05.manuscriptcentral.com/nejm
-          description: -
+          description: 新英格兰医学杂志
     - term: W
       links:
         - title: Wiley
           logo: g/github.webp
           url: https://wiley.atyponrex.com/submission/dashboard
-          description: -     
+          description: Wiley系列期刊     
           
 - taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
