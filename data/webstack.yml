@@ -1,11 +1,11 @@
 ---
 
-- taxonomy: 作者站点
+- taxonomy: 我的常用
   icon: fas fa-medal
   links:
-    - title: '史提芬先森 · 语雀'
-      logo: y/yuque.webp
-      url: https://www.yuque.com/shenweiyan
+    - title: '教培通知'
+      logo: 
+      url: https://fyy.sdfyy.cn/AdminDept/lists/category/606/id/14.html
       description: 作者的语雀花园主页。
     - title: Knowledge-Garden
       logo: k/knowledge-garden.webp
