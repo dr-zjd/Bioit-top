@@ -20,20 +20,15 @@
 - taxonomy: 期刊投稿
   icon: fab fa-github
   list:
-    - term: C
       links:
         - title: Clinical Neurology and Neurosurgery
           logo: g/github.webp
           url: https://www.editorialmanager.com/cnn/default2.aspx
           description: 临床期刊
-    - term: I
-      links: 
         - title: iScience
           logo: g/github.webp
           url:https://www.editorialmanager.com/iscience/default2.aspx
           description: 基础期刊
-    - term: J
-      links: 
         - title: Journal of Medical Case Reports
           logo: g/github.webp
           url: https://www.editorialmanager.com/jmcr/default2.aspx
@@ -42,20 +37,14 @@
           logo: g/github.webp
           url: https://jns.msubmit.net/cgi-bin/main.plex?form_type=home
           description: 临床期刊
-    - term: M
-      links:
         - title: MDPI
           logo: g/github.webp
           url: https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue
           description: MDPI系列期刊
-    - term: N
-      links:
         - title: New England Journal of Medicine
           logo: g/github.webp
           url: https://mc05.manuscriptcentral.com/nejm
           description: 新英格兰医学杂志
-    - term: W
-      links:
         - title: Wiley
           logo: g/github.webp
           url: https://wiley.atyponrex.com/submission/dashboard
