@@ -62,43 +62,26 @@
           logo: e/easycv.png
           url: ttps://wiley.atyponrex.com/submission/dashboard
           description: Wiley系列期刊
-    - term: 在线翻译
-      links:
-        - title: 有道词典
-          logo: y/youdao.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: y/youdao.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: t/translate-google.png
-          url: https://translate.google.com.hk/
-          description: 谷歌翻译。
-        - title: 百度翻译
-          logo: f/fanyi-baidu.png
-          url: https://fanyi.baidu.com/
-          description: "200 种语言互译、沟通全世界！"
-        - title: DeeL 翻译
-          logo: d/deepl.svg
-          url: https://www.deepl.com/translator
-          description: 全世界最准确的翻译。
-    - term: 求职招聘
-      links:
-        - title: 简单简历
-          logo: e/easycv.png
-          url: https://easycv.cn/
-          description: 五分钟打造互联网从业者的金牌简历。
-        - title: 前程无忧
-          logo: 5/51job.jpg
-          url: https://www.51job.com/
-          description: 51JOB - 前程无忧招聘网。
-
-- taxonomy: 生信科研
+          
+- taxonomy: 生产工具
   icon: fas fa-dna
   list:
-    - term: 在线科研
+   - term: 在线工具
+      links:
+        - title: LetPub
+          logo: c/chiplot-online.webp
+          url: https://www.letpub.com.cn/
+          description: 专业SCI论文编辑。
+        - title: 我来
+          logo: c/chiplot-online.webp
+          url: https://www.wolai.com/chanton-zhu/41RgVxkMBNLvJ73yg9gDjg
+          description: 工作台
+        - title: Notion
+          logo: c/chiplot-online.webp
+          url: https://www.notion.so/Wiki-3fa68e13bf6e4887b9f03384ef6054e2
+          description: The all-in-one work space.
+        
+    - term: 科研助力
       links:
         - title: NCBI
           logo: n/ncbi.webp
@@ -108,85 +91,15 @@
           logo: b/blast.png
           url: https://blast.ncbi.nlm.nih.gov/Blast.cgi
           description: NCBI 的 BLAST 序列比对工具。
-        - title: Bioconda
-          logo: b/bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: m/metacpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Galaxy 即时聊天
-          logo: g/gitter.jpg
-          url: https://app.element.io/#/room/#galaxyproject:matrix.org
-          description: Galaxy Chat on Matrix.
-        - title: Galaxy Main
-          logo: g/galaxy-project.png
-          url: https://usegalaxy.org/
-          description: Use Galaxy Main server.
-        - title: Galaxy Project
-          logo: g/galaxy-logo.jpg
-          url: https://galaxyproject.org/
-          description: Galaxy Community Hub.
-        - title: R Project
-          logo: r/r-project.webp
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: b/bioconductor.png
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-        - title: RNAfold WebServer
-          logo: r/rna-tbi.webp
-          url: http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
-          description: RNA 分子二级结构预测。
-        - title: CNGBDB
-          logo: d/db-cngb.png
-          url: https://db.cngb.org/
-          description: 国家基因库生命大数据平台。
-        - title: '螺旋桨 - PaddleHelix'
-          url: http://rna.baidu.com/
-          logo: r/rna-baidu.webp
-          description: 百度飞桨深度学习框架。
-        - title: 临床生信之家
-          url: https://www.aclbi.com/
+        - title: 仙桃学术
+          logo: c/chiplot-online.webp
+          url: https://www.xiantaozi.com/
+          description: 仙桃学术
+        - title: 科研者之家
+          url: https://www.home-for-researchers.com/#/
           logo: a/aclbi.jpg
-          description: 生信之美，每一个科研者都值得拥有。
+          description: 科研者之家
           
-    - term: 云服务器
-      links:
-        - title: 阿里云
-          logo: a/aliyun.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: c/cloud-tencent.webp
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: h/huaweicloud.png
-          url: https://www.huaweicloud.com/
-          description: 共建智能世界云底座。
-        - title: 七牛云
-          logo: q/qiniu.jpg
-          url: https://www.qiniu.com/
-          description: 一站式场景化智能视频云。
-        - title: 京东云
-          logo: j/jdcloud.jpg
-          url: https://www.jdcloud.com/
-          description: 京东科技集团旗下领先的云计算品牌。
-        - title: 云筏科技
-          logo: c/cloudraft.webp
-          url: https://www.cloudraft.cn/
-          description: 云筏 - 科研云。
-        - title: 极云普惠云电脑
-          logo: j/ji-cloud.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: q/qingjiaocloud.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
     - term: 科研绘图
       links: 
         - title: Hiplot
