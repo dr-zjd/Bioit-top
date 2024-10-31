@@ -1,7 +1,7 @@
 ---
 
 - taxonomy: 我的常用
-  icon: fas fa-medal
+  icon: fab fa-github
   links:
     - title: '教培通知'
       logo: g/github.webp
