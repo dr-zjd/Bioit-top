@@ -25,41 +25,41 @@
         - title: Clinical Neurology and Neurosurgery
           logo: g/github.webp
           url: https://www.editorialmanager.com/cnn/default2.aspx
-          description: 
+          description: -
     - term: I
       links: 
         - title: iScience
           logo: g/github.webp
           url:https://www.editorialmanager.com/iscience/default2.aspx
-          description: 
+          description: -
     - term: J
       links: 
         - title: Journal of Medical Case Reports
           logo: g/github.webp
           url: https://www.editorialmanager.com/jmcr/default2.aspx
-          description: 
+          description: -
         - title: Journal of Neurosurgery
           logo: g/github.webp
           url: https://jns.msubmit.net/cgi-bin/main.plex?form_type=home
-          description: 
+          description: -
     - term: M
       links:
         - title: MDPI
           logo: g/github.webp
           url: https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue
-          description: 
+          description: -
     - term: N
       links:
         - title: New England Journal of Medicine
           logo: g/github.webp
           url: https://mc05.manuscriptcentral.com/nejm
-          description: 
+          description: -
     - term: W
       links:
         - title: Wiley
           logo: g/github.webp
           url: https://wiley.atyponrex.com/submission/dashboard
-          description:       
+          description: -     
           
 - taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
