@@ -19,8 +19,7 @@
      
 - taxonomy: 期刊投稿
   icon: fab fa-github
-  list:
-      links:
+  links:
         - title: Clinical Neurology and Neurosurgery
           logo: g/github.webp
           url: https://www.editorialmanager.com/cnn/default2.aspx
