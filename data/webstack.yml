@@ -19,36 +19,36 @@
 - taxonomy: 期刊投稿
   icon: fas fa-briefcase fa-lg
   list:
-    - term: C
+    - term: 投稿地址
       links:
         - title: Clinical Neurology and Neurosurgery
           logo: e/easycv.png
           url: https://www.editorialmanager.com/cnn/default2.aspx
           description: 临床期刊 
         - title: iScience
-          logo: 8/88.jpg
+          logo: e/easycv.png
           url: https://www.editorialmanager.com/iscience/default2.aspx
           description: 基础期刊
-        - title: 网易 163 邮箱
-          logo: n/netease.webp
-          url: https://mail.163.com/
-          description: 网易 163 免费邮箱。
-        - title: 88 完美邮箱
-          logo: 8/88.jpg
-          url: https://88.com/
-          description: '88.com - 完美邮箱'
-        - title: Email 完美邮箱
-          logo: e/emailcn.png
-          url: https://www.email.cn/
-          description: 'Email.cn - 完美邮箱'
-        - title: Gmail
-          logo: g/gmail.png
-          url: https://mail.google.com/
-          description: 谷歌 Gmail 邮箱。
-        - title: Outlook
-          logo: o/outlook.webp
-          url: https://outlook.live.com/
-          description: Free personal email and calendar from Microsoft.
+        - title: Journal of Medical Case Reports
+          logo: e/easycv.png
+          url:  https://www.editorialmanager.com/jmcr/default2.aspx
+          description: 临床期刊
+        - title: Journal of Neurosurgery
+          logo: e/easycv.png
+          url: https://jns.msubmit.net/cgi-bin/main.plex?form_type=home
+          description: 临床期刊
+        - title: MDPI
+          logo: e/easycv.png
+          url: https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue
+          description: 'MDPI系列期刊'
+        - title: New England Journal of Medicine
+          logo: e/easycv.png
+          url: https://mc05.manuscriptcentral.com/nejm
+          description:  新英格兰医学杂志
+        - title: Wiley
+          logo: e/easycv.png
+          url: ttps://wiley.atyponrex.com/submission/dashboard
+          description: Wiley系列期刊
     - term: 在线翻译
       links:
         - title: 有道词典
