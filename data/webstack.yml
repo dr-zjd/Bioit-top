@@ -11,31 +11,11 @@
       logo: g/github.webp
       url: https://www.sdhmdp.com/article/lists/category/63.html
       description: 苏州大学附属第四医院人事招聘。
-    - title: 知识花园
-      logo: o/octocat.png
-      url: https://weiyan.cc
-      description: 基于 MkDocs Material 个人站点。
-    - title: BioIT 爱好者
-      logo: b/bioitee.webp
-      url: https://www.bioitee.com/
-      description: BioIT 爱好者主页。
-    - title: Markdown2Html
-      logo: m/markdown.png
-      url: https://md.bioitee.com/
-      description: 公众号 Markdown 排版利器。
-    - title: 飞书消息
-      logo: l/lark-suite.webp
-      url: https://shenweiyan.feishu.cn/next/messenger
-      description: 先进企业，先用飞书。
-    - title: 'Lark Suite Messenger'
-      logo: l/lark-suite.webp
-      url: https://shenweiyan.sg.larksuite.com/next/messenger
-      description: 先进企业协作与管理平台。
-    - title: 关注我们
-      logo: q/qrcode.png
-      url: https://www.bioitee.com
-      qrcode: https://res.bioit.top/logos/qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
+    - title: 人事招聘（市立医院）
+      logo: g/github.webp
+      url: https://rs.smh.cc:44333/zp.html#/
+      description: 苏州市立医院人事招聘。
+    
 
 - taxonomy: 常用推荐
   icon: far fa-star
