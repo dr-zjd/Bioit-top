@@ -23,41 +23,41 @@
     - term: C
       links:
         - title: Clinical Neurology and Neurosurgery
-          logo: c/codeup.svg
+          logo: g/github.webp
           url: https://www.editorialmanager.com/cnn/default2.aspx
           description: 
     - term: I
       links: 
         - title: iScience
-          logo: c/codeup.svg
+          logo: g/github.webp
           url:https://www.editorialmanager.com/iscience/default2.aspx
           description: 
     - term: J
       links: 
         - title: Journal of Medical Case Reports
-          logo: c/codeup.svg
+          logo: g/github.webp
           url: https://www.editorialmanager.com/jmcr/default2.aspx
           description: 
         - title: Journal of Neurosurgery
-          logo: c/codeup.svg
+          logo: g/github.webp
           url: https://jns.msubmit.net/cgi-bin/main.plex?form_type=home
           description: 
     - term: M
       links:
         - title: MDPI
-          logo: c/codeup.svg
+          logo: g/github.webp
           url: https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue
           description: 
     - term: N
       links:
         - title: New England Journal of Medicine
-          logo: c/codeup.svg
+          logo: g/github.webp
           url: https://mc05.manuscriptcentral.com/nejm
           description: 
     - term: W
       links:
         - title: Wiley
-          logo: c/codeup.svg
+          logo: g/github.webp
           url: https://wiley.atyponrex.com/submission/dashboard
           description:       
           
