@@ -79,8 +79,7 @@
         - title: Notion
           logo: c/chiplot-online.webp
           url: https://www.notion.so/Wiki-3fa68e13bf6e4887b9f03384ef6054e2
-          description: The all-in-one work space.
-        
+          description: The all-in-one work space.    
     - term: 科研助力
       links:
         - title: NCBI
@@ -99,7 +98,6 @@
           url: https://www.home-for-researchers.com/#/
           logo: a/aclbi.jpg
           description: 科研者之家
-        
     - term: 科研绘图
       links: 
         - title: Hiplot
