@@ -67,7 +67,7 @@
   icon: fas fa-dna
   list:
    - term: 在线工具
-      links:
+    links:
         - title: LetPub
           logo: c/chiplot-online.webp
           url: https://www.letpub.com.cn/
