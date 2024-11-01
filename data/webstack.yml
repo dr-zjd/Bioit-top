@@ -65,7 +65,7 @@
 - taxonomy: 生产工具
   icon: fas fa-dna
   list:
-    - term: 在线工具
+    - term: 在线工具 
       links: 
         - title: 'LetPub'
           logo: c/chiplot-online.webp
