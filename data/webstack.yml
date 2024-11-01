@@ -67,7 +67,7 @@
   list:
    - term: 在线工具
     links: 
-        - title: LetPub
+        - title: 'LetPub'
           logo: c/chiplot-online.webp
           url: https://www.letpub.com.cn/
           description: 专业SCI论文编辑。
@@ -75,7 +75,7 @@
           logo: c/chiplot-online.webp
           url: https://www.wolai.com/chanton-zhu/41RgVxkMBNLvJ73yg9gDjg
           description: 工作台
-        - title: Notion
+        - title: 'Notion'
           logo: c/chiplot-online.webp
           url: https://www.notion.so/Wiki-3fa68e13bf6e4887b9f03384ef6054e2
           description: The all-in-one work space.    
