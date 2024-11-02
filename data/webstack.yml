@@ -78,25 +78,33 @@
         - title: 'LetPub'
           logo: c/chiplot-online.webp
           url: https://www.letpub.com.cn/
-          description: 专业SCI论文编辑。
+          description: 专业SCI论文编辑
         - title: 我来
           logo: c/chiplot-online.webp
           url: https://www.wolai.com/chanton-zhu/41RgVxkMBNLvJ73yg9gDjg
           description: 工作台
+        - title: 语雀
+          logo: c/chiplot-online.webp
+          url: https://www.yuque.com/dashboard
+          description: 工作台          
         - title: 'Notion'
           logo: c/chiplot-online.webp
           url: https://www.notion.so/Wiki-3fa68e13bf6e4887b9f03384ef6054e2
-          description: The all-in-one work space.    
+          description: The all-in-one work space  
+        - title: 'CuBox'
+          logo: c/chiplot-online.webp
+          url: https://cubox.pro/
+          description: 你的超强阅读学习助手          
     - term: 科研助力
       links: 
         - title: NCBI
           logo: n/ncbi.webp
           url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
+          description: National Center for Biotechnology Information
         - title: NCBI BLAST
           logo: b/blast.png
           url: https://blast.ncbi.nlm.nih.gov/Blast.cgi
-          description: NCBI 的 BLAST 序列比对工具。
+          description: NCBI 的 BLAST 序列比对工具
         - title: 仙桃学术
           logo: c/chiplot-online.webp
           url: https://www.xiantaozi.com/
@@ -108,7 +116,89 @@
         - title: 赛特新思
           logo: c/chiplot-online.webp
           url: https://www.citexs.com/
-          description: 赛特新思科研助手     
+          description: 赛特新思科研助手 
+    - term: 生信工具
+      links: 
+        - title: 'SignaLink 3.0'
+          logo:  r/r-graph-gallery.png
+          url: http://signalink.org/
+          description: SignaLink 3.0
+        - title: 'String'
+          logo:  r/r-graph-gallery.png
+          url: https://cn.string-db.org/cgi/input?sessionId=bhf66XpzoQE2&input_page_show_search=on
+          description: String
+        - title: 'KEGG'
+          logo:  r/r-graph-gallery.png
+          url: https://www.kegg.jp/
+          description: KEGG数据库
+        - title: 'cBioPortal'
+          logo:  r/r-graph-gallery.png
+          url: https://www.cbioportal.org/
+          description: cBioPortal for Cancer Genomics
+        - title: 'GEPIA 2.0'
+          logo:  r/r-graph-gallery.png
+          url: http://gepia2.cancer-pku.cn/#index
+          description: GEPIA  
+        - title: 'TIMER 2.0'
+          logo:  r/r-graph-gallery.png
+          url: http://timer.cistrome.org/
+          description: TIMER
+        - title: 'miRDB'
+          logo:  r/r-graph-gallery.png
+          url: https://mirdb.org/mirdb/index.html
+          description: miRDB
+        - title: 'TargetScanHuman 7.1'
+          logo:  r/r-graph-gallery.png
+          url: https://www.targetscan.org/vert_71/
+          description: TargetScanHuman
+        - title: 'CGGA'
+          logo:  r/r-graph-gallery.png
+          url: https://www.cgga.org.cn/index.jsp
+          description: Chinese Glioma Genome Atlas
+        - title: 'LinkedOmics'
+          logo:  r/r-graph-gallery.png
+          url: https://www.linkedomics.org/login.php#dataSource
+          description: Linkedomics
+        - title: 'GSCA'
+          logo:  r/r-graph-gallery.png
+          url: https://guolab.wchscu.cn/GSCA/#/
+          description: Gene Set Cancer Analysis
+        - title: 'GLASS'
+          logo:  r/r-graph-gallery.png
+          url: https://www.synapse.org/Synapse:syn17038081/wiki/585622
+          description: Glioma Longitudinal AnalySiS         
+        - title: 'CancerSEA'
+          logo:  r/r-graph-gallery.png
+          url: http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp
+          description: CancerSEA
+        - title: 'GeneMANIA'
+          logo:  r/r-graph-gallery.png
+          url: https://genemania.org/
+          description: GeneMANIA
+        - title: 'EpiFactors'
+          logo:  r/r-graph-gallery.png
+          url: https://epifactors.autosome.org/
+          description: EpiFactors
+        - title: 'DrugBank'
+          logo:  r/r-graph-gallery.png
+          url: https://go.drugbank.com/releases/latest#structures
+          description: DrugBank
+        - title: 'Cancerrxgene'
+          logo:  r/r-graph-gallery.png
+          url: https://www.cancerrxgene.org/
+          description: Genomics of Drug Sensitivity in Cancer
+        - title: 'BioGRID'
+          logo:  r/r-graph-gallery.png
+          url: https://thebiogrid.org/
+          description: The Biological General Repository for Interaction Datasets
+        - title: 'GlioVis'
+          logo:  r/r-graph-gallery.png
+          url: http://gliovis.bioinfo.cnio.es/
+          description: GlioVis
+        - title: 'Addgene'
+          logo:  r/r-graph-gallery.png
+          url: https://www.addgene.org/
+          description: Addgene
     - term: 科研绘图
       links: 
         - title: Hiplot
