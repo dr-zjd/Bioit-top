@@ -105,6 +105,10 @@
           url: https://www.home-for-researchers.com/#/
           logo: a/aclbi.jpg
           description: 科研者之家
+        - title: 赛特新思
+          logo: c/chiplot-online.webp
+          url: https://www.citexs.com/
+          description: 赛特新思科研助手     
     - term: 科研绘图
       links: 
         - title: Hiplot
