@@ -199,6 +199,10 @@
           logo:  r/r-graph-gallery.png
           url: https://www.addgene.org/
           description: Addgene
+        - title: 'ENCODE'
+          logo:  r/r-graph-gallery.png
+          url: https://www.encodeproject.org/
+          description: ENCODE         
     - term: 科研绘图
       links: 
         - title: Hiplot
