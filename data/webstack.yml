@@ -71,7 +71,7 @@
           description:  新英格兰医学杂志
         - title: Wiley
           logo: e/easycv.png
-          url: ttps://wiley.atyponrex.com/submission/dashboard
+          url: https://wiley.atyponrex.com/submission/dashboard
           description: Wiley系列期刊
           
 - taxonomy: 生产工具
