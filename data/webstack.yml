@@ -73,6 +73,10 @@
           logo: e/easycv.png
           url: https://wiley.atyponrex.com/submission/dashboard
           description: Wiley系列期刊
+        - title: World Neurosurgery
+          logo: e/easycv.png
+          url: https://www.editorialmanager.com/worldneurosurgery/default2.aspx
+          description: 临床期刊       
           
 - taxonomy: 生产工具
   icon: fas fa-dna
