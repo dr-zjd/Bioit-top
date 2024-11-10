@@ -210,7 +210,11 @@
         - title: 'ENCODE'
           logo:  r/r-graph-gallery.png
           url: https://www.encodeproject.org/
-          description: ENCODE         
+          description: ENCODE
+        - title: 'UALCAN'
+          logo:  r/r-graph-gallery.png
+          url: https://ualcan.path.uab.edu/index.html
+          description: The University of ALabama at Birmingham CANcer data analysis Portal
     - term: 科研绘图
       links: 
         - title: Hiplot
