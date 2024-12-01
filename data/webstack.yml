@@ -31,6 +31,10 @@
       logo: c/cloud-tencent.webp
       url: https://cloud.tencent.com/
       description: 产业智变，云启未来。
+    - title: 阿里企业邮箱
+      logo: a/aliyun.jpg
+      url: https://qiye.aliyun.com/
+      description: Neurosci-个人邮。
   
 - taxonomy: 期刊投稿
   icon: fas fa-briefcase fa-lg
