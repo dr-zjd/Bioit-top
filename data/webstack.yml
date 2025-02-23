@@ -167,6 +167,10 @@
           description: 赛特新思科研助手 
     - term: 生信工具
       links: 
+        - title: 'iPCD'
+          logo:  r/r-graph-gallery.png
+          url: https://ipcd.biocuckoo.cn/index.php
+          description: integrated annotations for Programmed Cell Death
         - title: 'SignaLink 3.0'
           logo:  r/r-graph-gallery.png
           url: http://signalink.org/
