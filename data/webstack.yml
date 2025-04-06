@@ -177,6 +177,10 @@
           logo: c/chiplot-online.webp
           url: https://www.citexs.com/
           description: 赛特新思科研助手 
+        - title: Newidea
+          logo: c/chiplot-online.webp
+          url: https://www.newidea.ai/home
+          description: 探索医学场景，激发科研灵感
     - term: 生信工具
       links: 
         - title: 'iPCD'
